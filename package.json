@@ -12,7 +12,7 @@
     "tachyons": "^4.11.1"
   },
   "scripts": {
-    "start": "set PORT=3006 || PORT = https://pure-falls-35893.herokuapp.com/ && react-scripts start",
+    "start": "set PORT=3006 && react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
